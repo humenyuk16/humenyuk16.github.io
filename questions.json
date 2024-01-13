@@ -1,0 +1,57 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        { "text": "Paris", "correct": true },
+        { "text": "Rome", "correct": false },
+        { "text": "Madrid", "correct": false },
+        { "text": "London", "correct": false }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        { "text": "Mars", "correct": true },
+        { "text": "Venus", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Saturn", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest animal?",
+      "options": [
+        { "text": "Elephant", "correct": false },
+        { "text": "Blue whale", "correct": true },
+        { "text": "Giraffe", "correct": false },
+        { "text": "Hippopotamus", "correct": false }
+      ]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+        { "text": "Thailand", "correct": false },
+        { "text": "India", "correct": false },
+        { "text": "Japan", "correct": true },
+        { "text": "China", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        { "text": "Atlantic Ocean", "correct": false },
+        { "text": "Indian Ocean", "correct": false },
+        { "text": "Arctic Ocean", "correct": false },
+        { "text": "Pacific Ocean", "correct": true }
+      ]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": [
+        { "text": "Melbourne", "correct": false },
+        { "text": "Sydney", "correct": false },
+        { "text": "Canberra", "correct": true },
+        { "text": "Perth", "correct": false }
+      ]
+    }
+  ]
+  
