@@ -6,7 +6,8 @@
         { "text": "Rome", "correct": false },
         { "text": "Madrid", "correct": false },
         { "text": "London", "correct": false }
-      ]
+      ],
+      "correctAnswer": "Paris"
     },
     {
       "question": "Which planet is known as the Red Planet?",
@@ -15,7 +16,8 @@
         { "text": "Venus", "correct": false },
         { "text": "Jupiter", "correct": false },
         { "text": "Saturn", "correct": false }
-      ]
+      ],
+      "correctAnswer": "Mars"
     },
     {
       "question": "What is the largest animal?",
@@ -24,7 +26,8 @@
         { "text": "Blue whale", "correct": true },
         { "text": "Giraffe", "correct": false },
         { "text": "Hippopotamus", "correct": false }
-      ]
+      ],
+      "correctAnswer": "Blue whale"
     },
     {
       "question": "Which country is known as the Land of the Rising Sun?",
@@ -33,7 +36,8 @@
         { "text": "India", "correct": false },
         { "text": "Japan", "correct": true },
         { "text": "China", "correct": false }
-      ]
+      ],
+      "correctAnswer": "Japan"
     },
     {
       "question": "What is the largest ocean on Earth?",
@@ -42,7 +46,8 @@
         { "text": "Indian Ocean", "correct": false },
         { "text": "Arctic Ocean", "correct": false },
         { "text": "Pacific Ocean", "correct": true }
-      ]
+      ],
+      "correctAnswer": "Pacific Ocean"
     },
     {
       "question": "What is the capital of Australia?",
